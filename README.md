@@ -33,4 +33,4 @@ java LibrarySystem
 The application automatically creates `books.csv` and `purchases.csv` when needed to store inventory and purchase records.
 
 ## Project Type
-B.Tech CSE — Java Programming Project
+B.Tech CSE AIML — Java Programming Project
